@@ -15,9 +15,9 @@ By day I'm a Magento developer, and by night I do some FOSS projects of my own
 - [[https://github.com/voidekh/oomox-arc-kyotonight][oomox-arc-kyotonight]]
 
 *** My links
-- [[https://lanius.one/][lanius.one]]
-- [[https://www.youtube.com/channel/UCYEVEs98gYLjVqfpzngnhaw/featured][YouTube]]
+- [[https://lanius.dev/][lanius.dev]]
+- [[https://www.youtube.com/laniusdev][YouTube]]
 - [[https://open.spotify.com/show/6ONdVXRzhcNKQmo5JVAQW3][voidCAST]]
 - [[https://fosstodon.org/web/@lanius][Mastodon]]
-- [[https://twiter.com/laniusone][Twitter]]
+- [[https://twiter.com/laniusdev][Twitter]]
 
