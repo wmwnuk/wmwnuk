@@ -1,10 +1,10 @@
 My name is Wojtek and I do some stuff on the internet. I do some coding
 as a hobby, and also way more coding as a job.
 
-I use Linux and really like, to the point I have a YouTube channel where
+I use Linux and really like it, to the point I have a YouTube channel where
 I talk a lot about it.
 
-By day I\'m a Magento developer, and by night I do some FOSS projects of
+By day I'm a Magento developer, and by night I do some FOSS projects of
 my own (mainly Vim-related) and contribute to some other if I can.
 
 ### My recent creations
