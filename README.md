@@ -9,9 +9,10 @@ my own (mainly Vim-related) and contribute to some other if I can.
 
 ### My recent creations
 
--   [kyotonight.vim](https://github.com/voidekh/kyotonight.vim)
+-   [kyotonight](https://github.com/sigmavim/kyotonight)
+-   [SigmaVimRc](https://github.com/sigmavim/vimrc)
+-   [sigma-skeleton](https://github.com/sigmavim/skeleton)
 -   [sigma.nvim](https://github.com/voidekh/sigma.nvim)
--   [SigmaVimRc](https://github.com/voidekh/SigmaVimRc)
 -   [oomox-arc-kyotonight](https://github.com/voidekh/oomox-arc-kyotonight)
 
 ### My links
