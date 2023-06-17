@@ -12,8 +12,8 @@ my own (mainly Vim-related) and contribute to some other if I can.
 -   [kyotonight](https://github.com/sigmavim/kyotonight)
 -   [SigmaVimRc](https://github.com/sigmavim/vimrc)
 -   [sigma-skeleton](https://github.com/sigmavim/skeleton)
--   [sigma.nvim](https://github.com/voidekh/sigma.nvim)
--   [oomox-arc-kyotonight](https://github.com/voidekh/oomox-arc-kyotonight)
+-   [sigma.nvim](https://github.com/sigmavim/init.lua)
+-   [oomox-arc-kyotonight](https://github.com/wmwnuk/oomox-arc-kyotonight)
 
 ### My links
 
