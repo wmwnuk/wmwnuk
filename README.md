@@ -19,6 +19,5 @@ and contribute to some other if I can.
 
 -   [lanius.dev](https://lanius.dev/)
 -   [YouTube](https://www.youtube.com/laniusdev)
--   [voidCAST](https://open.spotify.com/show/6ONdVXRzhcNKQmo5JVAQW3)
 -   [Mastodon](https://fosstodon.org/web/@lanius)
 -   [Twitter](https://twiter.com/laniusdev)
