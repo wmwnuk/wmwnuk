@@ -1,19 +1,19 @@
-My name is Wojtek and I do some stuff on the internet. I do some coding
-as a hobby, and also way more coding as a job.
+My name is Wojtek and I do some stuff on the internet. I do some coding as a
+hobby, and also way more coding as a job.
 
-I use Linux and I really like it, to the point I have a YouTube channel where
-I talk a lot about it.
+I use Linux and I really like it, to the point I have a YouTube channel where I
+talk a lot about it.
 
-By day I'm a Magento developer, and by night I do some FOSS projects of
-my own (mainly Vim-related) and contribute to some other if I can.
+By day I'm a Magento developer, and by night I do some FOSS projects of my own
+and contribute to some other if I can.
 
 ### My recent creations
 
--   [kyotonight](https://github.com/sigmavim/kyotonight)
--   [SigmaVimRc](https://github.com/sigmavim/vimrc)
--   [sigma-skeleton](https://github.com/sigmavim/skeleton)
--   [sigma.nvim](https://github.com/sigmavim/init.lua)
--   [oomox-arc-kyotonight](https://github.com/wmwnuk/oomox-arc-kyotonight)
+-   [kyotonight.vim](https://github.com/shrikecode/kyotonight.vim)
+-   [ShrikeVim](https://github.com/shrikecode/shrike.vim)
+-   [skeleton.vim](https://github.com/shrikecode/skeleton.vim)
+-   [doom-kyoto-night-theme](https://github.com/shrikecode/doom-kyoto-night-theme)
+-   [oomox-arc-kyotonight](https://github.com/shrikecode/oomox-arc-kyotonight)
 
 ### My links
 
